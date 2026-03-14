@@ -1,8 +1,15 @@
-﻿<div align="center">
+﻿
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20A%20K&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20Builder&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aman%20A%20K&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aman+A+K+👋;Full-Stack+Web+Developer;Data+Engineering+Enthusiast;MERN+Stack+%7C+Python+%7C+TypeScript;Always+building+something+new+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Aman+A+K+%F0%9F%91%8B;Full-Stack+Web+Developer;Data+Engineering+Enthusiast;MERN+%7C+Python+%7C+TypeScript+%7C+Spark;Always+shipping+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=aman-a-k&color=7C83FD&style=flat-square&label=Profile+Views)
+&nbsp;&nbsp;
+[![followers](https://img.shields.io/github/followers/aman-a-k?label=Followers&style=flat-square&color=7C83FD&logo=github)](https://github.com/aman-a-k?tab=followers)
 
 </div>
 
@@ -11,12 +18,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name:       Aman A K
-role:       Full-Stack Developer & Data Engineer
-company:    "@sahynex"
-stack:      [ React, Node.js, Python, Apache Spark, Airflow, Docker ]
-interests:  [ Web Apps, Data Pipelines, Hackathons, Open Source ]
-currently:  "Building production-grade data pipelines & full-stack platforms"
+name:        Aman A K
+company:     "@sahynex"
+location:    India
+role:        Full-Stack Developer & Data Engineer
+stack:       [ React, Node.js, Python, Apache Spark, Airflow, Docker ]
+interests:   [ Web Apps, Data Pipelines, Hackathons, Open Source ]
+working_on:  "Production-grade data pipelines & full-stack platforms"
+learning:    "Cloud Data Engineering (AWS/GCP), System Design"
+ask_me_about: "MERN Stack, Data Pipelines, Hackathon strategies"
 ```
 
 ---
@@ -25,31 +35,18 @@ currently:  "Building production-grade data pipelines & full-stack platforms"
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,tailwind&perline=8&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,docker,git,vercel,github,vscode,linux,postman&perline=8&theme=dark" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br/><br/>
 
-**Frontend**
+**Data Engineering**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Data Engineering**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-**Databases & DevOps**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -57,13 +54,17 @@ currently:  "Building production-grade data pipelines & full-stack platforms"
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 | Project | Description | Stack |
-|---------|-------------|-------|
-| [🔧 Data Engineering Pipeline](https://github.com/aman-a-k/Data-Engineering-Pipeline-Protothon-26) | End-to-end batch & event-driven data pipeline — Protothon 2026 Hackathon | Python · Spark · Airflow · Docker |
-| [🏨 Hostel Management System](https://github.com/aman-a-k/HOSTEL-MANAGEMENT---SKILL-LAB) | Complaint management system with role-based access for students & admin | MERN · JavaScript · Vercel |
-| [💼 Internship Tracker](https://github.com/aman-a-k/INTERNSHIP-TRACKER--SKILL-SANGAM) | Track and manage internship applications with a clean dashboard | TypeScript · React |
-| [🔍 Internship Portal](https://github.com/aman-a-k/Internship_Portal) | Platform for students to find internships and employers to post listings | MERN Stack |
-| [🔎 Lost & Found App](https://github.com/aman-a-k/LOST-AND-FOUND-APPLICATION) | Report and recover lost items within a campus or community | Python |
+|:--------|:------------|:------|
+| [**🔧 Data Engineering Pipeline**](https://github.com/aman-a-k/Data-Engineering-Pipeline-Protothon-26) | End-to-end batch and event-driven data pipeline — Protothon 2026 | Python · Spark · Airflow · Docker |
+| [**🏨 Hostel Management System**](https://github.com/aman-a-k/HOSTEL-MANAGEMENT---SKILL-LAB) | Complaint management with role-based access — live on Vercel | React · Node · MongoDB |
+| [**💼 Internship Tracker**](https://github.com/aman-a-k/INTERNSHIP-TRACKER--SKILL-SANGAM) | Manage internship applications with a clean dashboard | TypeScript · React |
+| [**🌐 Internship Portal**](https://github.com/aman-a-k/Internship_Portal) | Full platform for students and employers to connect | MERN Stack |
+| [**🔎 Lost & Found App**](https://github.com/aman-a-k/LOST-AND-FOUND-APPLICATION) | Report and recover lost items within a campus | Python |
+
+</div>
 
 ---
 
@@ -71,24 +72,25 @@ currently:  "Building production-grade data pipelines & full-stack platforms"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman-a-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-a-k&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman-a-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C83FD&icon_color=7C83FD"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-a-k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C83FD"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aman-a-k&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=aman-a-k&theme=tokyonight&hide_border=true&background=0D1117&ring=7C83FD&fire=7C83FD&currStreakLabel=7C83FD)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aman-a-k&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aman-a-k&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -98,7 +100,21 @@ currently:  "Building production-grade data pipelines & full-stack platforms"
 
 <div align="center">
 
-[![Aman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-a-k&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-a-k&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C83FD&line=7C83FD&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/main/dist/github-snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/main/dist/github-snake.svg" />
+	<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aman-a-k/aman-a-k/main/dist/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -106,15 +122,16 @@ currently:  "Building production-grade data pipelines & full-stack platforms"
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-a-k)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-a-k)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=aman-a-k&color=58A6FF&style=flat-square&label=Profile+Views)
+*"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
 
 </div>
+
